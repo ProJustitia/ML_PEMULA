@@ -1,8 +1,7 @@
-# ML_PEMULA\
+# ML_PEMULA
 
 
-## Install Requirement
+Dicoding Course Submission
 
-```bash
-pip install -r requirenments.txt
-```
+![App Screenshot](jpg.png)
+
